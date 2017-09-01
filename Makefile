@@ -9,8 +9,8 @@ TWEAK_NAME = SBDashBoardGif
 SBDashBoardGif_FILES = Tweak.xm
 SBDashBoardGif_FILES += UIImageanimatedGIF.m
 SBDashBoardGif_FRAMEWORKS = UIKit CoreGraphics QuartzCore ImageIO
-SBDashBoard  += -Wl,-segalign,4000
-SBDashBoard_CFLAGS = -Wno-deprecated -Wno-deprecated-declarations -Wno-error -fobjc-arc
+SBDashBoardGif += -Wl,-segalign,4000
+SBDashBoardGif_CFLAGS = -Wno-deprecated -Wno-deprecated-declarations -Wno-error -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/tweak.mk
 
