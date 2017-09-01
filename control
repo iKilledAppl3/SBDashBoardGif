@@ -1,0 +1,9 @@
+Package: com.ikilledappl3.sbdashboardgif
+Name: SBDashBoardGif
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A tweak that demos adding gifs to the lockscreen on iOS 10.
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Section: Tweaks
