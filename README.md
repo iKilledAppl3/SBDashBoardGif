@@ -6,7 +6,7 @@ Maybe I will make this a full tweak IDK tho just messing around with stuff reall
 - Simple! Download the code and use theos!.
 - Need help contact me on Twitter @iKilledAppl3.
 
-# Licensed under the MIT License Liscese!
+# Licensed under the MIT License
 Respect all the license states so on and so forth!
 
 # Donate!
@@ -16,7 +16,7 @@ Donating helps me continue making tweaks and showing me that people actually car
 Donate here: http://is.gd/donate2ToxicAppl3Inc
 
 # Screenshot
-[Screenshot](https://raw.githubusercontent.com/iKilledAppl3/SBDashBoardGif/master/Screenshot.png)
+[Screenshot] (https://raw.githubusercontent.com/iKilledAppl3/SBDashBoardGif/master/Screenshot.png)
 
 # Video Demo  :P
 Watch it here: https://www.youtube.com/watch?v=tg2JN-Ecbws
